@@ -36,33 +36,3 @@ Commercial or AGI integration requires explicit permission.
 
 © 2025 Seungjun Baek. All rights reserved.
 Unauthorized reuse of EIDOS Core logic is strictly prohibited.
-
-
----
-
-## 📁 `EIDOS-Lite/LICENSE`
-```text
-EIDOS-Lite License (Custom MIT Variant)
-
-Copyright (c) 2025 Seungjun Baek
-
-Permission is hereby granted, free of charge, to any person obtaining
-a copy of this software and associated documentation files (the "Software"),
-to use, copy, and modify the Software for **research and educational purposes only**,
-subject to the following conditions:
-
-1. Integration with or redistribution as part of any proprietary AGI or
-   commercial cognitive system requires explicit written permission
-   from the original author.
-
-2. The name "EIDOS" and related trademarks may not be used in any derivative
-   works without attribution and prior approval.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND.
-
-Version: 1.0 — November 2025
-
-
-
-
-
